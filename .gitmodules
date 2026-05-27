@@ -1,6 +1,6 @@
 [submodule "media"]
 	path = media
-	url = https://github.com/androidx/media.git
+	url = https://gitee.com/suyimin1/media.git
 	branch = release
 [submodule "ffmpeg"]
 	path = ffmpeg
